@@ -7,3 +7,5 @@ Year: 3
 Student Name: Amir
 Course: Computer Science
 Year: 2
+
+This repository is for learning Git and GitHub
