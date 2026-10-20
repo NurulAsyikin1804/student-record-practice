@@ -3,3 +3,7 @@ Student Record System
 Student Name: Aina
 Course: Data Engineering
 Year: 3
+
+Student Name: Amir
+Course: Computer Science
+Year: 2
