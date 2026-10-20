@@ -8,4 +8,8 @@ Student Name: Amir
 Course: Computer Science
 Year: 2
 
+Student Name: Sara
+Course: Software Engineering
+Year: 1
+
 This repository is for learning Git and GitHub
